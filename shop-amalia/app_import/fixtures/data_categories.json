@@ -1,0 +1,70 @@
+[
+  {
+    "model": "app_product.category",
+    "pk": 1,
+    "fields": {
+      "title": "Верхняя одежда",
+      "parent": null,
+      "icon": "",
+      "image": "",
+      "active": true,
+      "favourite": false,
+      "sort_index": 0,
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 1,
+      "level": 0
+    }
+  },
+  {
+    "model": "app_product.category",
+    "pk": 2,
+    "fields": {
+      "title": "Женские пиджаки и костюмы",
+      "parent": null,
+      "icon": "",
+      "image": "",
+      "active": true,
+      "favourite": false,
+      "sort_index": 0,
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 3,
+      "level": 0
+    }
+  },
+  {
+    "model": "app_product.category",
+    "pk": 3,
+    "fields": {
+      "title": "Домашняя одежда",
+      "parent": null,
+      "icon": "",
+      "image": "",
+      "active": true,
+      "favourite": false,
+      "sort_index": 0,
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 2,
+      "level": 0
+    }
+  },
+  {
+    "model": "app_product.category",
+    "pk": 4,
+    "fields": {
+      "title": "Популярные товары",
+      "parent": null,
+      "icon": "",
+      "image": "images/category_images/MP002XW1INQS_8258518_2_v1.jpg",
+      "active": true,
+      "favourite": true,
+      "sort_index": 1,
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 4,
+      "level": 0
+    }
+  }
+]

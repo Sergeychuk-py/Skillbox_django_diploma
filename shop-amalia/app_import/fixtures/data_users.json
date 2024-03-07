@@ -1,0 +1,56 @@
+[
+  {
+    "model": "app_users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$qd8lYACAlkZ3y8eQX3xGHy$uzg2h6FwwI9iigPIla5+BhGbnn4j6BkesAf3W+wiqP0=",
+      "last_login": "2023-05-09T13:30:41.335Z",
+      "is_superuser": true,
+      "email": "bk@bk.ru",
+      "full_name": "",
+      "date_joined": "2023-05-09T11:14:38.243Z",
+      "is_active": true,
+      "avatar_file": "",
+      "phoneNumber": "",
+      "is_staff": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "app_users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$vZn5AdaG2zWmutha89b0MH$t60PX5Yxc9M52JBVOKy0NhuYYT8IG0QlkFtxcZ78fcg=",
+      "last_login": "2023-05-09T13:33:19.507Z",
+      "is_superuser": false,
+      "email": "nina@mail.ru",
+      "full_name": "Nina",
+      "date_joined": "2023-05-09T13:13:39.957Z",
+      "is_active": true,
+      "avatar_file": "",
+      "phoneNumber": "9998001234",
+      "is_staff": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "app_users.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$djwDEd3twVEhTlTcX9hxyf$VDgymA6BoSC74x/tmyvQ7fjejYsv2IK2L1a64s814bQ=",
+      "last_login": "2023-05-09T13:46:07.574Z",
+      "is_superuser": false,
+      "email": "Mari@bk.ru",
+      "full_name": "Maria",
+      "date_joined": "2023-05-09T13:29:29.378Z",
+      "is_active": true,
+      "avatar_file": "",
+      "phoneNumber": "9998004321",
+      "is_staff": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
